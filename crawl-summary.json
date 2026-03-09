@@ -1,0 +1,25 @@
+{
+  "target": "https://ielts-ai-startup.vercel.app/",
+  "timestamp": "2026-03-09T12:44:59.449Z",
+  "viewports": [
+    "desktop",
+    "tablet",
+    "mobile"
+  ],
+  "pagesScanned": 25,
+  "successCount": 25,
+  "failureCount": 0,
+  "skippedCount": 0,
+  "discoveredUrls": [
+    "https://ielts-ai-startup.vercel.app/",
+    "https://ielts-ai-startup.vercel.app/cambridge-practice",
+    "https://ielts-ai-startup.vercel.app/dashboard",
+    "https://ielts-ai-startup.vercel.app/learning-roadmap",
+    "https://ielts-ai-startup.vercel.app/login",
+    "https://ielts-ai-startup.vercel.app/quick-test",
+    "https://ielts-ai-startup.vercel.app/register",
+    "https://ielts-ai-startup.vercel.app/speaking-practice",
+    "https://ielts-ai-startup.vercel.app/writing-practice"
+  ],
+  "issues": []
+}
